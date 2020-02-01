@@ -1,0 +1,25 @@
+{
+  "name": "kata",
+  "version": "1.0.0",
+  "description": "![](docs/file1.jpeg?raw=true) ![](docs/file2.jpeg?raw=true) ![](docs/file3.jpeg?raw=true)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianconza/kata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianconza/kata/issues"
+  },
+  "homepage": "https://github.com/adrianconza/kata#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
